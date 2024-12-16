@@ -1,4 +1,4 @@
-package chap_09;
+package chap_09.generic;
 
 /**
  * 제네릭
