@@ -3,6 +3,7 @@ package chap_09.array;
 import java.util.Collections;
 import java.util.LinkedList;
 
+
 /**
  * LinkedList
  */
